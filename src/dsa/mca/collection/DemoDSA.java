@@ -13,7 +13,7 @@ public class DemoDSA {
 		h.add(200);
 		h.add(500);
 		h.add(700);
-		System.out.println(h);
+		System                                            .out.println(h);
 		
 		
 		
